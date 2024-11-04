@@ -10,4 +10,4 @@ https://cm-react-weather-app.netlify.app
 ## Weather App Features:
 - Displays current temperature, humidity, and wind speed.
 - Supports over 10,000 cities with real-time updates.
-- Provides user feedback for invalid city names.
+- Provides real-time error handling for invalid city names.
