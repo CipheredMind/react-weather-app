@@ -11,3 +11,13 @@ https://cm-react-weather-app.netlify.app
 - Displays current temperature, humidity, and wind speed.
 - Supports over 10,000 cities with real-time updates.
 - Provides real-time error handling for invalid city names.
+
+## Technical Challenges & Learning Points
+### Asynchronous Data Fetching with React:
+- Implemented useEffect and async/await to fetch real-time weather data from the OpenWeatherMap API, handling async operations within React components. This was a valuable experience in managing side effects in React.
+
+### Error Handling for User Input:
+- Added error handling to account for invalid city names or API request failures, providing feedback to users when inputs are misspelled or network issues arise. This challenge emphasized the importance of a smooth user experience.
+
+### Dynamic Styling Based on Weather Conditions:
+- Dynamically updated icons and styles based on weather conditions (e.g., sun, rain) to create a more engaging, intuitive interface. This required handling conditional rendering effectively within React.
