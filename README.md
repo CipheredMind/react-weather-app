@@ -3,6 +3,8 @@
 
 ## About Project
 Interactive weather app displaying real-time data. Built with React, Javascript, HTML, CSS, and OpenWeatherMap API. 
+
+## Instructions
 To search for a city, type the city name in the search bar and click the search button. (Note: Pressing ‘Enter’ to search is not yet enabled.)
 
 ## Live Demo
